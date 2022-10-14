@@ -8,6 +8,7 @@ Antigua & Deps
 Argentina
 Armenia
 Australia
+Austrian Empire*
 Austria
 Azerbaijan
 Bahamas
